@@ -5,7 +5,7 @@
 /public/storage
 /storage/*.key
 /vendor
-# .env, need this .env file for configuration, nothing sensitive here no worries
+# .env     # needed this file for configuration, nothing sensitive 
 .env.backup
 .env.production
 .phpunit.result.cache
