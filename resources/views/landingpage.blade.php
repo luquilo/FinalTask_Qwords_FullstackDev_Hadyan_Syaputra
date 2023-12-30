@@ -10,7 +10,7 @@
 
     </head>
     <body>
-        <h1>halo</h1><h2>halo lagi</h2>
-        
+
+        <h1>test for update git ignore</h1>
     </body>
 </html>
