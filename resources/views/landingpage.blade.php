@@ -448,11 +448,44 @@
         </section>
 
 
+
+
+        <section id="apa-kata-mereka" class="flex flex-col justify-center items-center max-w-[1350px]">
+            <p class="text-4xl font-black my-4">Apa Kata Mereka?</p>
+            <p class="max-w-[750px] text-center">Apa kata mereka yang sudah menggunakan layanan web hosting Indonesia dari Qwords? Simak pengalaman mereka yang telah membuktikan sendiri fitur dari layanan kami. </p>
+
+            <div class="flex my-24">
+                <div class="flex flex-col max-w-[570px]">
+                    <div class="flex my-4">
+                        <p class="text-6xl">&ldquo;</p>
+                        <p class="flex items-center text-xl"> Semoga Qwords dapat terus bertahan, sehingga kami dan masyarakat Indonesia bisa mendapatkan layanan yang terbaik dari Qwords.</p>
+                    </div>
+                    <div class="border-l-4 border-[#ff6d0b] px-4">
+                        <p class="opacity-50">Kami, ID Cert, merupakan sebuah perusahaan yang bergerak dalam bidang penyedia jasa informasi keamanan di Indonesia. Oleh karena itu, kami membutuhkan Qwords untuk mendukung kebutuhan kami terhadap server dan hosting yang selalu up selama 24 jam.</p>
+                    </div>
+                    <div class="flex m-4">
+                        <p class="font-bold">Budi Raharjo</p>
+                        <p class="ml-12 opacity-50">founder ID Cert</p>    
+                    </div>                    
+                </div>
+                <div class="min-w-[650px] flex justify-center items-center">
+                    <img  src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/testi1.webp" alt="Budi Raharjo" width="368">
+                </div>
+            </div>
+
+
+
+        </section> 
+
+
+
+
+
         <section id="awards" class="">
             <div class="flex flex-col bg-[#13151b] w-[100vw] justify-center items-center">
                 <div class="flex flex-col max-w-[1600px] justify-start items-center w-full p-4">
-                    <p class="text-[#f2f2f2] my-8 font-black text-2xl">Terdaftar di PSE, ICANN dan partner lainnya</p>
-                    <div class="flex justify-center items-center">
+                    <p class="text-[#f2f2f2] my-8 font-black text-2xl"><span class="text-[#ff6d0b]">Qwords Awards </span>Terdaftar di PSE, ICANN dan partner lainnya</p>
+                    <div class="flex justify-center items-center mb-8">
                         <img width="100" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/code.webp" alt="qrcode" class="mr-8">
                         <img width="100" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/icann-logo.webp" alt="icann" class="mr-8">
                         <img width="100" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/badge_litespeed.svg" alt="litespeed" class="mr-8">
@@ -463,6 +496,9 @@
                 </div>
             </div>
         </section>
+
+
+        
       
 
 
