@@ -435,11 +435,31 @@
 
 
         <section id="warranty" class="my-32">
+
+
             <div class="bg-[#ffeee1] w-[100vw] flex h-[500px] justify-center items-center">
                 <img width="600" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/illustrations/guarantee.webp" alt="warranty" class="mr-[40px]">
                 <div class="flex flex-col justify-center ml-[40px] items-center max-w-[500px]">
                     <p class="text-4xl font-black">Garansi 30 Hari <span class="text-[#ff6d0b]">Uang Kembali</span></p>
                     <p> Untuk menjaga kepuasan pelanggan, kami memberikan garansi uang kembali yang berlaku hingga 30 hari setelah hosting aktif. </p>
+                </div>
+            </div>
+
+        </section>
+
+
+        <section id="awards" class="">
+            <div class="flex flex-col bg-[#13151b] w-[100vw] justify-center items-center">
+                <div class="flex flex-col max-w-[1600px] justify-start items-center w-full p-4">
+                    <p class="text-[#f2f2f2] my-8 font-black text-2xl">Terdaftar di PSE, ICANN dan partner lainnya</p>
+                    <div class="flex justify-center items-center">
+                        <img width="100" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/code.webp" alt="qrcode" class="mr-8">
+                        <img width="100" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/icann-logo.webp" alt="icann" class="mr-8">
+                        <img width="100" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/badge_litespeed.svg" alt="litespeed" class="mr-8">
+                        <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/badge_whmadmin.svg" alt="whm admin" width="100" class="mr-8">
+                        <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/acronis-cloud-tech.webp" alt="acronis cloud tech" width="100" class="mr-8">
+                        <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/acronis-cloud-sales.webp" alt="acronis cloud sales" width="100">
+                    </div>
                 </div>
             </div>
         </section>
