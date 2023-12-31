@@ -431,6 +431,18 @@
 
 
         </section>
+
+
+
+        <section id="warranty" class="my-32">
+            <div class="bg-[#ffeee1] w-[100vw] flex h-[500px] justify-center items-center">
+                <img width="600" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/illustrations/guarantee.webp" alt="warranty" class="mr-[40px]">
+                <div class="flex flex-col justify-center ml-[40px] items-center max-w-[500px]">
+                    <p class="text-4xl font-black">Garansi 30 Hari <span class="text-[#ff6d0b]">Uang Kembali</span></p>
+                    <p> Untuk menjaga kepuasan pelanggan, kami memberikan garansi uang kembali yang berlaku hingga 30 hari setelah hosting aktif. </p>
+                </div>
+            </div>
+        </section>
       
 
 
