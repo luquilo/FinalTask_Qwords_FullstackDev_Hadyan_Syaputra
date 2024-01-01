@@ -450,11 +450,11 @@
 
 
 
-        <section id="apa-kata-mereka" class="flex flex-col justify-center items-center max-w-[1350px]">
+        <section id="apa-kata-mereka" class="flex flex-col mt-32 justify-center items-center max-w-[1350px]">
             <p class="text-4xl font-black my-4">Apa Kata Mereka?</p>
             <p class="max-w-[750px] text-center">Apa kata mereka yang sudah menggunakan layanan web hosting Indonesia dari Qwords? Simak pengalaman mereka yang telah membuktikan sendiri fitur dari layanan kami. </p>
 
-            <div class="flex my-24">
+            <div class="flex mt-24">
                 <div class="flex flex-col max-w-[570px]">
                     <div class="flex my-4">
                         <p class="text-6xl">&ldquo;</p>
@@ -470,6 +470,46 @@
                 </div>
                 <div class="min-w-[650px] flex justify-center items-center">
                     <img  src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/testi1.webp" alt="Budi Raharjo" width="368">
+                </div>
+            </div>
+
+
+            <div class="flex flex-row-reverse mt-24">
+                <div class="flex flex-col max-w-[570px]">
+                    <div class="flex my-4">
+                        <p class="text-6xl">&ldquo;</p>
+                        <p class="flex items-center text-xl"> Pelayanan Qwords sangat cepat dan responsif, sehingga tidak butuh waktu lama untuk membantu website kami kembali normal. Terbaik pokoknya, mah! </p>
+                    </div>
+                    <div class="border-l-4 border-[#ff6d0b] px-4">
+                        <p class="opacity-50">Sebagai media penyedia kabar seputar kota Bandung, Info BDG menggunakan website sebagai rumah informasi. Website kami yang sempat down kini menunjukkan traffic yang tinggi setelah menggunakan dukungan dari Qwords. </p>
+                    </div>
+                    <div class="flex m-4">
+                        <p class="font-bold">Kuns Kurniawan</p>
+                        <p class="ml-12 opacity-50">PR Event Info BDG</p>    
+                    </div>                    
+                </div>
+                <div class="min-w-[650px] flex justify-center items-center">
+                    <img  src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/testi2.webp" alt="Kuns Kurniawan" width="368">
+                </div>
+            </div>
+
+
+            <div class="flex mt-24">
+                <div class="flex flex-col max-w-[570px]">
+                    <div class="flex my-4">
+                        <p class="text-6xl">&ldquo;</p>
+                        <p class="flex items-center text-xl"> Hingga saat ini pula, kami tidak pernah menemukan masalah yang berarti dari layanan yang diberikan Qwords. Layanan Customer Service yang sangat baik, membuat kami tidak ingin berpindah dari Qwords. </p>
+                    </div>
+                    <div class="border-l-4 border-[#ff6d0b] px-4">
+                        <p class="opacity-50">Penjualan Rumah Kopi Temanggung 90% dilakukan secara online, salah satunya menggunakan website. Semenjak tahun 2015 hingga saat ini, kami menggunakan hosting dan domain dari Qwords. </p>
+                    </div>
+                    <div class="flex m-4">
+                        <p class="font-bold">Denden Sofiudin</p>
+                        <p class="ml-12 opacity-50">Owner Rumah Kopi Temanggung</p>    
+                    </div>                    
+                </div>
+                <div class="min-w-[650px] flex justify-center items-center">
+                    <img  src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/testi3.webp" alt="Denden Sofiudin" width="368">
                 </div>
             </div>
 
