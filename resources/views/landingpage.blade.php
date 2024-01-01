@@ -521,7 +521,7 @@
 
 
 
-        <section id="awards" class="">
+        <section id="awards" class="mt-32">
             <div class="flex flex-col bg-[#13151b] w-[100vw] justify-center items-center">
                 <div class="flex flex-col max-w-[1600px] justify-start items-center w-full p-4">
                     <p class="text-[#f2f2f2] my-8 font-black text-2xl"><span class="text-[#ff6d0b]">Qwords Awards </span>Terdaftar di PSE, ICANN dan partner lainnya</p>
